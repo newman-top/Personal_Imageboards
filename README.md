@@ -1,6 +1,6 @@
-# corobooru
+# Personal_Imageboards
 
-`corobooru` is a web app for creating personal imageboards
+`Personal_Imageboards` is a web app for creating personal imageboards
 
 Since mid-2025, development of `corobooru` has been on hiatus
 
@@ -12,6 +12,6 @@ Since mid-2025, development of `corobooru` has been on hiatus
 - No unnecessary feature-bloat means no social media features or integration
 
 ## Tech stack
-- `corobooru` is a full-stack web application built with the MERN stack
+- `Personal_Imageboards` is a full-stack web application built with the MERN stack
 - An Express.js API on the back-end receives requests from a React front-end
 - The back-end (Node.js/Express) communicates with a MongoDB database hosted on an AWS server
